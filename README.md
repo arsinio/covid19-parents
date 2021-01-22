@@ -5,7 +5,7 @@
 ### Currently Available
 
 #### Pfizer-BioNTech
-Development was started on 10 January 2020. It uses their existing mRNA technology to produce a recognizable piece of the Coronavirus
+Development was started on 10 January 2020. It uses their existing mRNA technology to produce a recognizable piece of the Coronavirus.
 
 ##### Concerns
 > This vaccine requires storage at extremely cold temperatures. How does this work for facilities without the required cold storage facilities?
@@ -18,10 +18,14 @@ This vaccine must be thawed to room temperature and diluted with normal saline b
 
 
 ##### Links
-https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html
+https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html<br>
 https://en.wikipedia.org/wiki/Pfizer-BioNTech_COVID-19_vaccine
 
 #### Moderna
+
+##### Links
+https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html<br>
+https://en.wikipedia.org/wiki/Moderna_COVID-19_vaccine<br>
 
 ### Still in Testing
 
