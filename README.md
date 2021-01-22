@@ -22,6 +22,7 @@ https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-Bio
 https://en.wikipedia.org/wiki/Pfizer-BioNTech_COVID-19_vaccine
 
 #### Moderna
+The Moderna vaccine works in the manner as the Pfizer-BioNTech vaccine. The notable difference is that the Moderna vaccine has stabilized the mRNA structure such that it does not require the deep freeze supply chain that the Pfizer-BioNTech vaccine requires (although cold storage is still required).
 
 ##### Links
 https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html<br>
