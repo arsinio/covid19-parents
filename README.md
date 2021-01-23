@@ -2,12 +2,10 @@
 
 ## Vaccines
 
-### Currently Available
-
-#### Pfizer-BioNTech
+### Pfizer-BioNTech
 Development was started on 10 January 2020. It uses their existing mRNA technology to produce a recognizable piece of the Coronavirus.
 
-##### Concerns
+#### Concerns
 > This vaccine requires storage at extremely cold temperatures. How does this work for facilities without the required cold storage facilities?
 
 This vaccine needs to be stored at temperatures between −80 and −60 °C (−112 and −76 °F),[32] until five days before vaccination. This temperature can readily be achieved with dry ice (-109.3 °F). [source](https://en.wikipedia.org/wiki/Pfizer-BioNTech_COVID-19_vaccine#cite_note-Vaccination_Storage-33)
@@ -17,21 +15,29 @@ This vaccine needs to be stored at temperatures between −80 and −60 °C (−
 This vaccine must be thawed to room temperature and diluted with normal saline before administration. These videos were likely taken immediately prior to distirbution for injection. [source](https://en.wikipedia.org/wiki/Pfizer-BioNTech_COVID-19_vaccine#cite_note-FDAEUA-10)
 
 
-##### Links
+#### Links
 https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html<br>
 https://en.wikipedia.org/wiki/Pfizer-BioNTech_COVID-19_vaccine
 
-#### Moderna
+---
+
+### Moderna
 The Moderna vaccine works in the manner as the Pfizer-BioNTech vaccine. The notable difference is that the Moderna vaccine has stabilized the mRNA structure such that it does not require the deep freeze supply chain that the Pfizer-BioNTech vaccine requires (although cold storage is still required).
 
-##### Links
+#### Links
 https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html<br>
 https://en.wikipedia.org/wiki/Moderna_COVID-19_vaccine<br>
 
-### Still in Testing
 
-#### Johnson & Johnson
+### Johnson & Johnson
 
+
+#### Links
+https://www.nytimes.com/2021/01/13/health/covid-vaccine-johnson-johnson.html<br>
+https://www.politico.com/news/2021/01/13/johnson-johnson-vaccine-production-458941
+
+
+---
 
 ## General
 
@@ -51,4 +57,9 @@ No, these vaccines do not alter your DNA. While mRNA is generated from DNA, ther
 > This is a new vaccine technology.
 
 While this is a relatively new technology, it has been in development since the early 1990s. [source](https://en.wikipedia.org/wiki/RNA_vaccine)
+
+
+### Adenovirus Vaccines
+
+Adenovirus vaccines utilize a genetically modified adenovirus to induce an immune response to again 1. figure out how to create antibodies to remove the virus and 2. actually product the required antibodies. The adenovirus itself has man-made deficiencies which limit the ability of the virus to replicate well in the human body leading it to eventually be destroyed by the body, however the antibodies generated during the infection are long lasting. The benefits of the an adenovirus vaccine compared to an mRNA vaccines are 1. they induce strong innate and adaptive immune responses (require a single injection) and 2. they have a much higher thermostability (not requiring the intense cold storage of the mRNA vaccines). [source 1](https://www.news-medical.net/health/What-are-Adenovirus-Based-Vaccines.aspx) [source 2](https://cen.acs.org/pharmaceuticals/vaccines/Adenoviral-vectors-new-COVID-19/98/i19)
 
