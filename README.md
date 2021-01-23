@@ -1,4 +1,4 @@
-# How to Convince Your Parents to Vaccinate
+# COVID-19 Vaccine Notes
 
 ## Vaccines
 
@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Moderna_COVID-19_vaccine<br>
 
 
 ### Johnson & Johnson
-
+The Johnson & Johnson vaccine is an adenovirus-based vaccine. It uses an adenovirus to induce an immune response. It only requires a single shot and does not require the same extreme temperatures as the Pfizer-BioNTech vaccine. **This vaccine is currently experiencing manufacturing delays and is not expected to be available until April at the earliest.**
 
 #### Links
 https://www.nytimes.com/2021/01/13/health/covid-vaccine-johnson-johnson.html<br>
@@ -40,6 +40,8 @@ https://www.politico.com/news/2021/01/13/johnson-johnson-vaccine-production-4589
 ---
 
 ## General
+
+It should be noted that both vaccine types are relatively new technologies that do not have a significant track record in humans.
 
 ### mRNA Vaccines
 
@@ -61,5 +63,4 @@ While this is a relatively new technology, it has been in development since the 
 
 ### Adenovirus Vaccines
 
-Adenovirus vaccines utilize a genetically modified adenovirus to induce an immune response to again 1. figure out how to create antibodies to remove the virus and 2. actually product the required antibodies. The adenovirus itself has man-made deficiencies which limit the ability of the virus to replicate well in the human body leading it to eventually be destroyed by the body, however the antibodies generated during the infection are long lasting. The benefits of the an adenovirus vaccine compared to an mRNA vaccines are 1. they induce strong innate and adaptive immune responses (require a single injection) and 2. they have a much higher thermostability (not requiring the intense cold storage of the mRNA vaccines). [source 1](https://www.news-medical.net/health/What-are-Adenovirus-Based-Vaccines.aspx) [source 2](https://cen.acs.org/pharmaceuticals/vaccines/Adenoviral-vectors-new-COVID-19/98/i19)
-
+Adenovirus vaccines utilize a genetically modified adenovirus to induce an immune response to both the adenovirus itself as well as the target virus (in this case COVID-19). The adenovirus itself has man-made deficiencies which limit the ability of the virus to replicate well in the human body leading it to eventually be destroyed by the body, however the antibodies generated during the infection are long lasting. The benefits of the an adenovirus vaccine compared to an mRNA vaccines are 1. they induce strong innate and adaptive immune responses (require a single injection) and 2. they have a much higher thermostability (not requiring the intense cold storage of the mRNA vaccines). [source 1](https://www.news-medical.net/health/What-are-Adenovirus-Based-Vaccines.aspx) [source 2](https://cen.acs.org/pharmaceuticals/vaccines/Adenoviral-vectors-new-COVID-19/98/i19)
