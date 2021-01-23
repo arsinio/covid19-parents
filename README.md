@@ -1,6 +1,6 @@
 # COVID-19 Vaccine Notes
 
-## Vaccines
+## Vaccine Information
 
 ### Pfizer-BioNTech
 Development was started on 10 January 2020. It uses their existing mRNA technology to produce a recognizable piece of the Coronavirus.
@@ -36,6 +36,28 @@ The Johnson & Johnson vaccine is an adenovirus-based vaccine. It uses an adenovi
 https://www.nytimes.com/2021/01/13/health/covid-vaccine-johnson-johnson.html<br>
 https://www.politico.com/news/2021/01/13/johnson-johnson-vaccine-production-458941
 
+
+---
+
+## Vaccine Comparison
+
+| Vaccine           | Efficacy | Number of Doses To Date | Side Effects |
+|-------------------|----------|-------------------------|--------------|
+| Pfizer-BioNTech   | 95 %     | > 2 million             | 21 - anaphylaxis, 4 - temp. Bell's Palsy |
+| Moderna           | 94.1 %   | > 4 million             | 10 - anaphylaxis, 4 - temp. Bell's Palsy |
+| Johnson & Johnson | 90+ %    |
+
+**Total in the US To Date: >19.8 million**
+
+[source 1](https://www.webmd.com/vaccines/covid-19-vaccine/news/20201214/closer-look-at-three-covid-19-vaccines)<br>
+[source 2](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/)<br>
+[source 3](https://www.pharmacytimes.com/news/interim-results-of-johnson--johnson-single-dose-covid-19-vaccine-shows-90-efficacy)
+
+---
+
+## Side Effects
+https://www.politifact.com/article/2021/jan/20/shaking-covid-vaccine-side-effect-videos-and-what-/<br>
+https://medshadow.org/covid19-vaccine-side-effects/
 
 ---
 
